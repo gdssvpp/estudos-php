@@ -6,3 +6,6 @@ Fiz um formulário extremamente básico em html só pro usuário poder digitar o
 
 No Exercício original ele não pede nada de método POST ou GET, eu fiz porque... deu vontade de fazer algo diferente e desafiador pra minha pessoa
 pq pra relembrar tudo isso aí deu trabalho, tive que pesquisar um pouquinho.
+
+
+na pasta /Exercício 1 Original vocês encontram o arquivo do Exercício que eu retirei da internet.
