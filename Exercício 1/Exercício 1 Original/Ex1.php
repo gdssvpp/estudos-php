@@ -10,7 +10,7 @@ if($val > 0){
   $resultado = "Valor Negativo";
 
 }else{
-  $resultado = "Igual a Zero";
+  $resultado = "Valor Igual a Zero";
 }
 
 echo $resultado;
